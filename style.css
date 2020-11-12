@@ -1,0 +1,24 @@
+ h1{
+color:red ;
+      }
+ *{
+ border:solid;
+  }
+.header{
+     background-color:green;
+     display:flex;
+     flex-wrap:wrap;
+    justify-content:space-between;
+}
+.camel{
+    background-color: greenyellow;
+}
+.camelInterest{
+    background-color: indianred;
+}
+.panda{
+    background-color: lightseagreen;
+}
+.pandains{
+    background-color: magenta;
+}
